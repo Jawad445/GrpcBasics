@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HlMJE9XtUpyKbMeuO42y6jsWJO8YuieXZFEUS0J3hZyQXM9kgFZYhEsj2tZTrK1aly0QWMjt4M8x0891ZEOhng==",
+  "success": true,
+  "projectFilePath": "C:\\grpc\\protobuf\\protobuf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jawad Hussain Naqvi\\.nuget\\packages\\google.protobuf\\3.25.2\\google.protobuf.3.25.2.nupkg.sha512",
+    "C:\\Users\\Jawad Hussain Naqvi\\.nuget\\packages\\grpc.tools\\2.60.0\\grpc.tools.2.60.0.nupkg.sha512"
+  ],
+  "logs": []
+}

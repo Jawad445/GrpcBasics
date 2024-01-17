@@ -1,0 +1,17 @@
+C:\grpc\protobuf\bin\Debug\net8.0\protobuf.exe
+C:\grpc\protobuf\bin\Debug\net8.0\protobuf.deps.json
+C:\grpc\protobuf\bin\Debug\net8.0\protobuf.runtimeconfig.json
+C:\grpc\protobuf\bin\Debug\net8.0\protobuf.dll
+C:\grpc\protobuf\bin\Debug\net8.0\protobuf.pdb
+C:\grpc\protobuf\bin\Debug\net8.0\Google.Protobuf.dll
+C:\grpc\protobuf\obj\Debug\net8.0\protobuf.csproj.AssemblyReference.cache
+C:\grpc\protobuf\obj\Debug\net8.0\protobuf.GeneratedMSBuildEditorConfig.editorconfig
+C:\grpc\protobuf\obj\Debug\net8.0\protobuf.AssemblyInfoInputs.cache
+C:\grpc\protobuf\obj\Debug\net8.0\protobuf.AssemblyInfo.cs
+C:\grpc\protobuf\obj\Debug\net8.0\protobuf.csproj.CoreCompileInputs.cache
+C:\grpc\protobuf\obj\Debug\net8.0\protobuf.csproj.CopyComplete
+C:\grpc\protobuf\obj\Debug\net8.0\protobuf.dll
+C:\grpc\protobuf\obj\Debug\net8.0\refint\protobuf.dll
+C:\grpc\protobuf\obj\Debug\net8.0\protobuf.pdb
+C:\grpc\protobuf\obj\Debug\net8.0\protobuf.genruntimeconfig.cache
+C:\grpc\protobuf\obj\Debug\net8.0\ref\protobuf.dll
